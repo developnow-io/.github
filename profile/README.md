@@ -6,5 +6,5 @@
 - Backend Developer 
 - Mobile Developer
 
-Contact us on hr@developnow.io or
+Contact us on hr@developnow.io or\
 Visit our website https://developnow.io/career/
